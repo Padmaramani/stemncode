@@ -1,0 +1,140 @@
+/* change the background color */
+.navbar {
+    background-color: black;
+}
+
+/* Style all font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.fa-instagram  {
+    background: #55ACEE;
+    color: white;
+}
+
+#stemhead {
+    color: white;
+
+}
+
+.jumbotron {
+    margin-bottom: 0px;
+    background-image: url("../images/abstract-access-close-up-1089438.jpg");
+    background-position: 0% 25%;
+    background-size: 40%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    height: 40%;
+    text-shadow: black 0.3em 0.3em 0.3em;
+}
+
+.container3 {
+    background-color: green;
+    height: 100%;
+}
+
+#textlm {
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+}
+
+#textpd {
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+}
+
+#textcr {
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+}
+
+#textas {
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+}
+
+
+#textcolor {
+    color:white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+}
+
+
+#imageas {
+    height : 60%;
+    width : 60%;
+}
+
+#footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    font-size: 12px;
+    background-color: black;
+    color: white;
+    
+ }
+
+ #textalign {
+     text-align: right;
+ }
+
+ body {
+    background-color: green;
+}
+
+.table {
+ 
+        font-weight: bold;
+ 
+}
+
+#tabhead {
+    font-size: 20px;
+}
+
+
+#buttontt {
+    text-align: center;
+}
+
+
+.button {
+    background-color: lightblue; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    align-self: center;
+}
+
+
